@@ -75,4 +75,4 @@ Luis | CC 456 | Saldo: 0 | Transacciones: 0
 
 ## Autor
 
-Nicolas
+Nicolas Lombana :D
